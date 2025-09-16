@@ -1,0 +1,35 @@
+[33mcommit 37f4b5bea2c2008f184ff17a3aee95deeaf2e64e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Vladimir Romanov <Vovan591@yandex.ru>
+Date:   Tue Sep 16 00:01:51 2025 +0300
+
+    добавлен заголовок второго уровня
+
+[33mcommit 636012f62e4a456da37d362c7124e6bc9932cf72[m
+Author: Vladimir Romanov <Vovan591@yandex.ru>
+Date:   Mon Sep 15 23:36:06 2025 +0300
+
+    +html
+
+[33mcommit 73c725a15bd692426a634f0d477cd795f09772d0[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Vladimir Romanov <Vovan591@yandex.ru>
+Date:   Mon Sep 15 23:23:21 2025 +0300
+
+    изменен css
+
+[33mcommit de9e4393b9db51c4ec2f7a0b7f3cf758885c97ce[m
+Author: Vladimir Romanov <Vovan591@yandex.ru>
+Date:   Mon Sep 15 22:35:08 2025 +0300
+
+    добавлен body
+
+[33mcommit 13f15e7018c78762616b3e4a3bfaf743694999c5[m
+Author: Vladimir Romanov <Vovan591@yandex.ru>
+Date:   Mon Sep 15 22:32:42 2025 +0300
+
+    добавлены изменения в html и css
+
+[33mcommit da694d04c18dc303f8c4fa4addf82dc1e225411c[m
+Author: Vladimir Romanov <Vovan591@yandex.ru>
+Date:   Mon Sep 15 22:19:55 2025 +0300
+
+    первая версия
